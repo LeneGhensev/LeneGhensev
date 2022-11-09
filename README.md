@@ -5,7 +5,7 @@
 - 💼 &nbsp; Trabalhei grande parte de minha carreira na área da Educação e há 1 ano e meio migrei para área de TI. Hoje atuo na área de Arquitetura de Sistemas.
 - 🌱 &nbsp; Amo aprender e estou sempre fazendo cursos e estudando coisas novas. 
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+
 
 ----
 
@@ -26,6 +26,16 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
-lto:lenegghensev@gmail.com)](mailto:lenegghensev@gmail.com)
+
+<a href="https://github.com/LeneGhensev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeneGhensevs&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
+## :earth_americas: Onde me encontrar
+
+[![Linkedin: Rosilene Ghensev](https://www.linkedin.com/in/rosileneghensev/](https://www.linkedin.com/in/rosileneghensev/)
+
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lenegghensev@gmail.com)](mailto:lenegghensev@gmail.com)
 [![GitHub Lene Ghensev](https://github.com/LeneGhensev)
