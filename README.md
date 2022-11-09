@@ -7,7 +7,7 @@
 
 </br>
 
-----
+
 
 ## 🚀 Minhas Skills
 
@@ -24,7 +24,7 @@
 
 </br>
 
-----
+
 
 ## ⭐ Onde me encontrar
 
