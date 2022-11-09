@@ -3,9 +3,9 @@
 
 - 🎓 &nbsp; Sou formada Análise e Desenvolvimento de Sistemas, Bacharel em Administração e Licenciada em Pedagogia.
 - 💼 &nbsp; Trabalhei grande parte de minha carreira na área da Educação e há 1 ano e meio migrei para área de TI. Hoje atuo na área de Arquitetura de Sistemas.
-- 🌱 &nbsp; Amo aprender e estou sempre fazendo cursos e estudando coisas novas. 
+- 🌱 &nbsp; Amo aprender, estou sempre fazendo cursos e estudando coisas novas. 
 
-
+</br>
 
 ----
 
@@ -22,18 +22,10 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"/></code>
 
-
+</br>
 ---
 
-## ⭐ Informações sobre minha conta GitHub
-
-<a href="https://github.com/LeneGhensev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeneGhensevs&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
-## :earth_americas: Onde me encontrar
+## ⭐ Onde me encontrar
 
 [![Linkedin: Rosilene Ghensev](https://img.shields.io/badge/-RosileneGhensev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rosileneghensev/)](https://www.linkedin.com/in/rosileneghensev/)
 
