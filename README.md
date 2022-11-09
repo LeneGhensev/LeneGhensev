@@ -35,7 +35,8 @@
 
 ## :earth_americas: Onde me encontrar
 
-[![Linkedin: Rosilene Ghensev](https://www.linkedin.com/in/rosileneghensev/](https://www.linkedin.com/in/rosileneghensev/)
+[![Linkedin: Rosilene Ghensev](https://www.linkedin.com/in/rosileneghensev/]
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lenegghensev@gmail.com)](mailto:lenegghensev@gmail.com)
-[![GitHub Lene Ghensev](https://github.com/LeneGhensev)
+[![Gmail Badge](https://img.shields.io/badge/-lenegghensev@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lenegghensev@gmail.com)](mailto:lenegghensev@gmail.com)
+[![GitHub Lene Ghensev](https://img.shields.io/github/followers/github.com/LeneGhensev)]
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/LeneGhensev?label=follow&style=social)](https://github.com/LeneGhensev)
