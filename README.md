@@ -2,9 +2,9 @@
 ## 💜 Olá, meu nome é <strong>{Rosilene Ghensev}!</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 
 - 🎓 &nbsp; Sou formada Análise e Desenvolvimento de Sistemas, Bacharel em Administração e Licenciada em Pedagogia.
-- 💼 &nbsp; Trabalhei grande parte de minha carreira na área da Educação e há 1 ano e meio migrei para área de TI. Hoje atuo na área de Arquitetura de Sistemas.
+- 💼 &nbsp; Trabalhei grande parte de minha carreira na área da Educação e há 1 ano e meio migrei para área de TI. Hoje atuo como Analista de Arquitetura de Sistemas.
 - 👩 &nbsp; Amo conversar, sair pra comer, beber e viajar.
-- 🌱 &nbsp; Também amo aprender, estou sempre fazendo cursos e estudando coisas novas. 
+- 🌱 &nbsp; Também amo estudar e aprender coisas novas.
 
 </br>
 
