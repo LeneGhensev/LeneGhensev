@@ -1,8 +1,8 @@
 
-## 💜 Olá, meu nome é <strong>{Rosilene Ghensev}!</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+## 💜 Olá, meu nome é <strong>{Rosilene Ghensev}!</strong> mas prefiro ser chama de <strong>{Lene}!</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 
 - 🎓 &nbsp; Sou formada Análise e Desenvolvimento de Sistemas, Bacharel em Administração e Licenciada em Pedagogia.
-- 💼 &nbsp; Trabalhei grande parte de minha carreira na área da Educação e há 1 ano e meio migrei para área de TI. Hoje atuo como Analista de Arquitetura de Sistemas.
+- 💼 &nbsp; Trabalhei grande parte de minha carreira na área da Educação e há alguns anos meio migrei para área de TI. Atuei como Analista de Arquitetura Técnica e hoje atuo como Arquiteta de Soluções.
 - 👩 &nbsp; Amo conversar, sair pra comer, beber e viajar.
 - 🌱 &nbsp; Também amo estudar e aprender coisas novas.
 
